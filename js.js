@@ -5,3 +5,6 @@ console.log(url.substring(url.indexOf("?") + 1).split("&"));
 
 
 asdasljkdkj
+
+
+i want another conflictasdas
