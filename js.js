@@ -4,3 +4,5 @@ console.log(url.substring(url.indexOf("?") + 1).split("&"));
 123
 
 hello world
+
+asdasljkdkj
