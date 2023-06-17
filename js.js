@@ -24,4 +24,8 @@ asdasljkdkj
 
 
 sadas
+<<<<<<< HEAD
 >>>>>>> 45c7e09 (test)
+=======
+git
+>>>>>>> c1eae86 (no:)
