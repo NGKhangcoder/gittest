@@ -18,4 +18,10 @@ hello world
 hello world
 
 asdasljkdkj
+<<<<<<< HEAD
 >>>>>>> 7d1a624 (done)
+=======
+
+
+sadas
+>>>>>>> 45c7e09 (test)
