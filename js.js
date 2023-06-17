@@ -6,3 +6,6 @@ console.log(url.substring(url.indexOf("?") + 1).split("&"));
 hello world
 
 asdasljkdkj
+
+
+sadas
