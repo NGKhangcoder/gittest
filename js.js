@@ -4,6 +4,7 @@ console.log(url.substring(url.indexOf("?") + 1).split("&"));
 123
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 asdasljkdkj
 
@@ -13,3 +14,8 @@ hello world
 =======
 hello world
 >>>>>>> 4431b54 (master)
+=======
+hello world
+
+asdasljkdkj
+>>>>>>> 7d1a624 (done)
