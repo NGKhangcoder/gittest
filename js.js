@@ -5,12 +5,17 @@ console.log(url.substring(url.indexOf("?") + 1).split("&"));
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+hello world
+>>>>>>> 18549c85245723fc285e5139d1df17fe63745ea8
 
 asdasljkdkjasdas
 
 
 i want another conflictasdas
 hello world
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 hello world
@@ -34,3 +39,7 @@ git
 sadasdasdasd
 git
 >>>>>>> 18549c8 (tired)
+=======
+sadasdasdasd
+git
+>>>>>>> 18549c85245723fc285e5139d1df17fe63745ea8
