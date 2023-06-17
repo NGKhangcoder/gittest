@@ -6,7 +6,7 @@ console.log(url.substring(url.indexOf("?") + 1).split("&"));
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-asdasljkdkj
+asdasljkdkjasdas
 
 
 i want another conflictasdas
