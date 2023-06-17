@@ -11,6 +11,7 @@ asdasljkdkjasdas
 
 i want another conflictasdas
 hello world
+<<<<<<< HEAD
 =======
 hello world
 >>>>>>> 4431b54 (master)
@@ -29,3 +30,7 @@ sadas
 =======
 git
 >>>>>>> c1eae86 (no:)
+=======
+sadasdasdasd
+git
+>>>>>>> 18549c8 (tired)
